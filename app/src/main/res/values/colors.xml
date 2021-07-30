@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_green_100">#dcedc8</color>
+    <color name="light_green_primary_light">#fffffb</color>
+    <color name="light_green_primary_dark">#aabb97</color>
+    <color name="lime_200">#e6ee9c</color>
+    <color name="lime_light">#ffffce</color>
+    <color name="lime_dark">#b3bc6d</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

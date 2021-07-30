@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travel News</string>
+    <string name="places">Places</string>
+    <string name="city">City</string>
+    <string name="observation">Observation</string>
+    <string name="news">News</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>

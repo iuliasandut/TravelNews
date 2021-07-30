@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/40727/AndroidStudioProjects/TravelNews/app/src/main/res/layout/activity_main.xml" value="0.1171875" />
+        <entry key="..\:/Users/40727/AndroidStudioProjects/TravelNews/app/src/main/res/layout/fragment_places.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/40727/AndroidStudioProjects/TravelNews/app/src/main/res/layout/list_places.xml" value="0.1265625" />
+        <entry key="..\:/Users/40727/AndroidStudioProjects/TravelNews/app/src/main/res/layout/nav_header.xml" value="0.1171875" />
+        <entry key="..\:/proiecte bune/TravelNews/app/src/main/res/layout/fragment_news.xml" value="0.13020833333333334" />
+        <entry key="..\:/proiecte bune/TravelNews/app/src/main/res/layout/fragment_places.xml" value="0.12291666666666666" />
+        <entry key="..\:/proiecte bune/TravelNews/app/src/main/res/layout/intro_screen_layout.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

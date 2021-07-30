@@ -1,0 +1,40 @@
+[{
+  "city": "Rome",
+  "observation": "Restrictions during the night"
+}, {
+  "city": "Berlin",
+  "observation": "Mask mandatory in shops"
+}, {
+  "city": "London",
+  "observation": "Brexit may impact travel conditions"
+}, {
+  "city": "Athens",
+  "observation": "Keep the social distance"
+}, {
+  "city": "Madrid",
+  "observation": "Some delayed flights"
+}, {
+  "city": "Bucharest",
+  "observation": "Weather alerts in the next weeks"
+}, {
+  "city": "Helsinki",
+  "observation": "No restrictions announced"
+}, {
+  "city": "Tokyo",
+  "observation": "Restrictions during the Olympics"
+}, {
+  "city": "New York",
+  "observation": "Alerts for high prices"
+}, {
+  "city": "Sydney",
+  "observation": "Winter travel conditions"
+}, {
+  "city": "Cairo",
+  "observation": "No restrictions in the next month"
+}, {
+  "city": "Lima",
+  "observation": "Mask mandatory in museums"
+}, {
+  "city": "Delhi",
+  "observation": "Weather alerts in the next weeks"
+}]
