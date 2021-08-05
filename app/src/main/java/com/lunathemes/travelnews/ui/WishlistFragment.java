@@ -1,4 +1,4 @@
-package com.lunathemes.travelnews;
+package com.lunathemes.travelnews.ui;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -7,6 +7,8 @@ import android.view.ViewGroup;
 
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
+
+import com.lunathemes.travelnews.R;
 
 public class WishlistFragment extends Fragment {
     @Nullable

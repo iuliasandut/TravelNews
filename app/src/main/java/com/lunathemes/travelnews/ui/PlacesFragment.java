@@ -1,4 +1,4 @@
-package com.lunathemes.travelnews;
+package com.lunathemes.travelnews.ui;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -12,6 +12,10 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.lunathemes.travelnews.adapter.AdapterPlaces;
+import com.lunathemes.travelnews.PlacesData;
+import com.lunathemes.travelnews.R;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -20,7 +24,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.security.AccessController;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -42,15 +45,10 @@ public class PlacesFragment extends Fragment {
 
         View view =  inflater.inflate(R.layout.fragment_places,container,false);
 
-
         mRecyclerView = (RecyclerView)view.findViewById(R.id.my_recycler_view);
 
-
-        // use this setting to improve performance if you know that changes
-        // in content do not change the layout size of the RecyclerView
         mRecyclerView.setHasFixedSize(true);
 
-        // use a linear layout manager
         layoutManager = new LinearLayoutManager(this.getActivity());
 
         mRecyclerView.setLayoutManager(layoutManager);

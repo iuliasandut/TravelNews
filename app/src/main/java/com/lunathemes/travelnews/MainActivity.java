@@ -11,6 +11,9 @@ import android.os.Bundle;
 import android.view.MenuItem;
 
 import com.google.android.material.navigation.NavigationView;
+import com.lunathemes.travelnews.ui.NewsFragment;
+import com.lunathemes.travelnews.ui.PlacesFragment;
+import com.lunathemes.travelnews.ui.WishlistFragment;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 

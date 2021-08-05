@@ -1,4 +1,4 @@
-package com.lunathemes.travelnews;
+package com.lunathemes.travelnews.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -7,6 +7,10 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.lunathemes.travelnews.PlacesData;
+import com.lunathemes.travelnews.R;
+import com.lunathemes.travelnews.ui.PlacesFragment;
 
 import java.util.List;
 
